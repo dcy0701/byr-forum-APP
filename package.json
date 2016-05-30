@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "北邮人论坛官方APP ReatNative版本\r ### 为什么会有这个项目？\r > 因为官方APP很多功能并未实现，并且官方的APP还存在很多缺陷。而且还有个原因，他们开发速度慢。。。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcy0701/byr-forum-APP.git"
+  },
+  "author": "dcy0701",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcy0701/byr-forum-APP/issues"
+  },
+  "homepage": "https://github.com/dcy0701/byr-forum-APP#readme",
+  "dependencies": {
+    "nightmare": "^2.5.0"
+  }
+}
