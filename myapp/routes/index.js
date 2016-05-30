@@ -21,7 +21,7 @@ router.get('/login',function(req,res){
       .type('#Password', pass)
       .click('#login_button')
       .forward()
-      .wait(100)
+      .wait(30)
       .evaluate(function () {
         return location.href
       })
